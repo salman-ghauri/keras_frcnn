@@ -3,4 +3,11 @@ __pycache__*
 data/test/*
 data/train/*
 data/model/*
-
+data/Person/*
+data/Mobile\ phone/*
+data/Car/*
+data/class-descriptions-boxable.csv
+data/train-annotations-bbox.csv
+data/train-annotations-human-imagelabels-boxable.csv
+data/train-images-boxable.csv
+data/train-images-boxable-with-rotation.csv
